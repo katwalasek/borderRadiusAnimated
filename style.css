@@ -21,6 +21,12 @@
         border-radius: 50%; bottom: 100%;
     }
 }
+
+.background {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
         
         
         
